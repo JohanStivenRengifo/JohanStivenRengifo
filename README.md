@@ -1,22 +1,8 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p align="left">Backend Developer</p>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Backend Developer<br><br>🔭 I'm currently a backend developer, building scalable APIs and secure cloud systems.<br><br>📚 I'm learning advanced DevOps strategies and cybersecurity best practices.<br><br>⚡ In my free time, I explore new technology trends, automate processes, and experiment with ethical hacking.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language</h3>
 
 ###
 
